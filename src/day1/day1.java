@@ -1,9 +1,10 @@
+package day1;
+
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.Objects;
 import java.util.Scanner;
 
-public class Main {
+public class day1 {
     public static void main(String[] args) {
         File puzzle = new File("day-1-puzzle-input.txt");
         int dial = 50;
